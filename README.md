@@ -4,7 +4,7 @@
 
 ## 📱 აპლიკაციის დემონსტრაცია
 
-![Demo]https://github.com/user-attachments/assets/b193de1a-316c-4aa1-a5fc-3beb647f392c
+https://github.com/user-attachments/assets/b193de1a-316c-4aa1-a5fc-3beb647f392c
 
 
 
